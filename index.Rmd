@@ -1,0 +1,24 @@
+--- 
+title: "Interoceptive Sensations of Motherhood (iSoM)"
+author: "Paul W. Savoca & Bridget L. Callaghan"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib, ref.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "iSoM Study"
+---
+
+# Introduction
+This wiki contains information for the Interoceptive Sensations of Motherhood (iSoM) Study. 
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

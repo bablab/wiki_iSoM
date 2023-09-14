@@ -1,0 +1,30 @@
+# Pilot Study
+
+## Pilot Overview 
+
+**Overview of Piloting Aims/Goals**
+
+## Pilot Details
+
+[INSERT PILOTING DETAILS HERE]
+
+## Questionnaires
+
+- **Demographics**
+  - BAB Lab
+
+- **Childhood Trauma Questionnaire**
+  - Pennebaker, J. W., & Susman, J. R. (1988). Disclosure of traumas and psychosomatic processes. Social science & medicine, 26(3), 327-332.
+
+- **Edinburgh Postnatal Depression Scale**
+  - Cox, J. L., Holden, J. M., & Sagovsky, R. (1987). Detection of postnatal depression: development of the 10-item Edinburgh Postnatal Depression Scale.The British journal of psychiatry,150(6), 782-786.
+
+- **Interoceptive Accuracy Scale (IAS)**
+  - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
+
+- **Multidimensional Assessment of Interoceptive Awareness 2 (MAIA-2)**
+  - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
+
+
+## Funding
+Start-up Funds
