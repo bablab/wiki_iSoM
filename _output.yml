@@ -3,7 +3,7 @@ bookdown::gitbook:
   config:
     toc: 
       before: |
-        <li><a href="./">wiki_SoM</a></li>
+        <li><a href="./">wiki_iSoM</a></li>
       after: |
         <li><a href="https://brainandbodylab.psych.ucla.edu/" target="blank">BABLab at UCLA</a></li>
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
