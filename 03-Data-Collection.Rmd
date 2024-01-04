@@ -4,10 +4,18 @@
 All research is conducted in-person at UCLA.
 
 ## HBD Task
-[Details of HBD Task/Device]
+- The HBD task is programed using Psychopy.
+- The HBD device is built using an Ardunio Uno3.
+- The Task contains 40 trials (10 beats per trial).
+- For each trial, participants responds for accuracy (Output: 1 = in-sync; 0 = out-of-sync), and confidence (0-100 continuous; Greater value = more confident.)
+- "In-sync" trials have a fixed offset of 200ms.
+- "Out-of-sync" trials have a fixed offset of 500ms.
 
 ## Data Storage
-Box. Details to follow.
+- The questionnaire data is stored in REDCap.
+- Physiological data and HBD Task outputs are stored on Box.
+
+
 
 
 

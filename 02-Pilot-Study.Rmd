@@ -3,10 +3,59 @@
 ## Pilot Overview 
 
 **Overview of Piloting Aims/Goals**
+- To demonstrate the feasiblity of collecting in-person measures of interoception in pregnant women.
+- Collect pilot data for grant.
 
 ## Pilot Details
 
-[INSERT PILOTING DETAILS HERE]
+**Questionnaires**
+
+1.	Open the REDCap Questionnaires on the iPad
+2.	Hand the participant the iPad and ask them to complete the questionnaires
+a.	You can let them know:
+i.	Each questionnaire will automatically proceed to the next
+ii.	If they have any questions, they can ask you for clarification
+iii.	It should take approximately 15 minutes
+3.	When the participant has completed the questionnaires, they will return the iPad to you.
+
+**Physiological Hook-up**
+
+1.	Ask the participant if they need to use the rest room
+2.	Collect Height and Weight measurements (enter into REDCap).
+3.	Ask the participant if they have any skin allergies or sensitives
+4.	Summarize/explain the physiology procedure to the participant
+  - a.	i.e., “Ok, so now I am going to place some sensors on your body. The sensors will stick to your skin but can be easily peeled off. I will place two sensors on your right and left collarbones, and one on your lower left rib cage. I will clean the area with an alcohol wipe and some gauze. I will walk you through everything as we go, but if you have any questions or anything feels uncomfortable, don’t hesitate to let me know.”
+5.	Place ECG Electrodes:
+  - a.	Find where you will place sensor
+  - b.	Clean the area with the alcohol wipe and then gauze
+  - c.	Apply a small dot of electrode gel to the sensor
+  - d.	Stick the sensor to the skin
+  - e.	Repeat for all 3 spots
+6.	Have Participant sit in chair (in front of stimulus computer).
+7.	Attached leads to electrodes
+  - a.	ECG & Respiration attach to same transmitter
+8.	Check Signals in Acqknowledge
+
+HBD Task
+1.	Open Psychopy
+2.	Run HBD Task
+3.	First complete 2-min baseline
+4.	Then explain task instructions
+5.	Have participant complete task (40 trials)
+
+Clean-up
+
+1.	Stop the physio recording
+2.	Detect the wires from the participant
+3.	Have participant remove sensors
+  - a.	They can do this themselves or you can help if they prefer
+  - i.	“Ripping it off like a Band-Aid” is NOT best approach typically
+  - ii.	Hold the skin, while peeling up, usually works best – if sensors are particularly sticky
+
+Pilot Interview
+1.	After completing the HBD task and removing sensors, complete the pilot interview
+2.	Verbally ask questions to the participant and take notes of their answers in REDCap
+
 
 ## Questionnaires
 
